@@ -1,4 +1,4 @@
-# Muhammadreza Khazaei
+# Muhammad Khazaei
 
 **Software Engineer • Python • Data**
 
