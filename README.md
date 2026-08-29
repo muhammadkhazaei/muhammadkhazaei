@@ -1,16 +1,18 @@
-## Hi there 👋
+# Muhammadreza Khazaei
 
-<!--
-**muhammadkhazaei/muhammadkhazaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer • Python • Data**
 
-Here are some ideas to get you started:
+Software Engineering graduate focused on Python,
+Data Analysis, and Data Mining.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+Python · SQL · Pandas · NumPy · Excel
+
+### Focus
+
+Data Analysis · Data Cleaning · Data Mining · Python Development
+
+### Contact
+
+📧 78muhammadkhazaei@gmail.com
