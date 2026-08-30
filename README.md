@@ -2,13 +2,13 @@
 
 ### Software Engineer | Python | Data Analysis
 
-Software Engineering graduate focused on Python, Data Analysis, Data Mining, and practical problem solving.
+Software Engineering graduate focused on Python, data analysis, data mining, and practical problem solving.
 
 ## About Me
 
 I am a Software Engineering graduate with a strong interest in Python and data-driven problem solving.
 
-I enjoy working with data, cleaning and analyzing datasets, exploring patterns, and turning raw data into meaningful insights through visualization and statistical analysis.
+I enjoy working with real-world datasets, cleaning and analyzing data, exploring patterns, and presenting insights through visualization and statistical analysis.
 
 ## Tech Stack
 
@@ -33,21 +33,23 @@ I enjoy working with data, cleaning and analyzing datasets, exploring patterns, 
 
 ### 🏠 Real Estate Price Analysis
 
-Exploratory analysis of real estate prices using Python, Pandas, and Matplotlib.
+An exploratory analysis of real estate prices using Python, Pandas, and Matplotlib.
 
-The project includes data exploration, statistical summaries, price distribution analysis, relationship analysis, neighborhood comparisons, and correlation analysis.
+The project covers data exploration, statistical summaries, price distribution analysis, living-area and year-built relationships, neighborhood comparisons, and correlation analysis.
 
 [View Project](https://github.com/muhammadkhazaei/real-estate-price-analysis)
 
 ### 📊 Sales Data Analysis
 
-A practical sales data analysis project focused on data cleaning, exploratory analysis, KPI analysis, and visualization using Python and Pandas.
+A practical sales data analysis project using Python and Pandas.
+
+The project focuses on data cleaning, exploratory analysis, KPI analysis, and data visualization.
 
 [View Project](https://github.com/muhammadkhazaei/sales-data-analysis)
 
 ### 🎬 Movie Data Analysis
 
-An exploratory data analysis project using Python, Pandas, and Matplotlib to investigate patterns and relationships within movie data.
+An exploratory movie data analysis project using Python, Pandas, and Matplotlib to investigate patterns and relationships within movie data.
 
 [View Project](https://github.com/muhammadkhazaei/movie-data-analysis)
 
